@@ -1,10 +1,8 @@
-
 import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 import pandas as pd
 import pydeck as pdk
-import matplotlib
 import wikipedia as wk
 import mapbox
 from PIL import Image
